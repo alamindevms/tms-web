@@ -1,4 +1,7 @@
 {
-	"greeting": "হ্যালো",
-	"welcome": "আমাদের অ্যাপে স্বাগতম"
+	"course_instructor": "কোর্স ইন্সট্রাক্টর",
+	"course_overview": "কোর্সের সারসংক্ষেপ",
+	"learning_topics": "এই কোর্স করে আপনি যা শিখবেন",
+	"exclusive_features": "কোর্সের বিশেষ বৈশিষ্ট্যসমূহ",
+	"course_details": "কোর্স বিস্তারিত"
 }
